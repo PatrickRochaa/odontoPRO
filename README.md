@@ -1,6 +1,6 @@
 # 🦷 OdontoPRO - Plataforma para Dentistas
 
-OdontoPRO é uma plataforma desenvolvida com foco em clínicas e profissionais da odontologia. O sistema permite que dentistas cadastrem seus serviços, configurem horários de atendimento e gerenciem agendamentos realizados pelos pacientes de forma simples e eficaz.
+OdontoPRO é uma plataforma desenvolvida com foco em clínicas e profissionais da odontologia. O sistema permite que dentistas cadastrem seus serviços, configurem horários de atendimento e gerenciem agendamentos realizados pelos pacientes de forma simples e eficaz.Criada com Next.js, React, TypeScript e Tailwind CSS e manipulação de dados com Prisma e PostgreSQL.
 
 ## 💡 Funcionalidades
 
@@ -32,3 +32,4 @@ OdontoPRO é uma plataforma desenvolvida com foco em clínicas e profissionais d
 - **Stripe** (para gerenciamento de planos)
 - **Zod** (validações)
 - **React Hook Form**
+- **Sonner**
