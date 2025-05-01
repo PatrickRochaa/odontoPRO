@@ -13,7 +13,7 @@ Criada com Next.js, React, TypeScript e Tailwind CSS, com manipulação de dados
 - Definição de **horários de funcionamento** semanais.
 - Gerenciamento completo de **agendamentos recebidos**.
 - Interface moderna, limpa e responsiva.
-- **Botão de logout acessível em todo o painel**, facilitando a saída da conta de qualquer página.
+- **Botão de logout acessível em todo o painel**, facilitando a saída da conta de qualquer página, implementada como melhoria além do escopo do curso original.
 - **Página personalizada de "Not Found" (404)**, implementada como melhoria além do escopo do curso original.
 
 ### 👥 Cliente (Paciente):
